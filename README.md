@@ -3,6 +3,8 @@ new-slang
 
 [![NPM](https://nodei.co/npm/new-slang.png)](https://nodei.co/npm/new-slang/)
 
+[![Build Status](https://travis-ci.org/coleww/new-slang.svg?branch=master)](https://travis-ci.org/coleww/new-slang)
+
 substitooote saabstrings of a teeeext for othar strings with the eyese and whamzy of a linguist, soo as to creet new thangs
 
 ### USE
