@@ -24,3 +24,5 @@ module.exports = function(text, lev, conv){
   })
   return newStr
 }
+
+module.exports.conversions = conversionMap
