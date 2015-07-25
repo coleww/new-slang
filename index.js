@@ -4,11 +4,13 @@ var conversionMap = {
   end: 'ihnd',
   and: 'uhn',
   ent: 'ind',
+  lan: 'lown',
   ast: 'inst',
   ou: 'oo',
   ow: 'au',
   il: 'iliil',
-  ag: 'ack'
+  ag: 'ack',
+  ew: 'eeoo'
 }
 
 module.exports = function(text, lev, conv){

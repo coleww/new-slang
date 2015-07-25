@@ -4,7 +4,7 @@ var newSlang = require('./')
 
 tap.test('slangifies',function(t){
   t.plan(1)
-  t.equal(newSlang('through you we will be magic', 1), 'threwe yoo we wiliill be mackic')
+  t.equal(newSlang('through you we will be magic', 1), 'threeooe yoo we wiliill be mackic')
 })
 
 tap.test('conversion map can be passed',function(t){
